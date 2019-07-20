@@ -1,1 +1,1 @@
-# Crown CLothing Large React Application
+# Crown Clothing Large React Application
